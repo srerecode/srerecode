@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python,Network automation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python , Network automation.
-- 📫 How to reach me ...Redeal@gmail.com
+- 📫 How to reach me ...sredeal@gmail.com
 
 <!---
 srerecode/srerecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
